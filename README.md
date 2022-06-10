@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, eu sou a Carol! 😉
 
-<!--
-**carolineff/carolineff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma jornalista que decidiu aprender a escrever em uma nova linguagem. Pois é!
 
-Here are some ideas to get you started:
+Estou amando desbravar o universo dos códigos e dar um novo sentido ao ponto e vírgula, às aspas, aos colchetes e por aí vai. E, aqui, você pode acompanhar o que tenho feito durante essa minha viagem cheia de desafios e aprendizados. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Quero me tornar uma desenvolvedora front-end
+- 🎓 Estou estudando HTML, CSS e JavaScript
+- 👋🏻 Quero conhecer pessoas para trocar experiências e, quem sabe, desenvolver projetos colaborativos
+
+#### Ah, e não deixe de me seguir!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carolinefr) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carolinef_)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@carolinefranca)  
