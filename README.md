@@ -2,10 +2,10 @@
 
 Uma jornalista que decidiu aprender a escrever em uma nova linguagem. Pois é!
 
-Estou amando desbravar o universo dos códigos e dar um novo sentido ao ponto e vírgula, às aspas, aos colchetes e por aí vai.<br> 
+Estou amando desbravar, mesmo que aos pouquinhos, o universo dos códigos e dar um novo sentido a cada ponto e vírgula, às aspas, aos colchetes e por aí vai.<br>
 E, aqui, você pode acompanhar o que tenho feito durante essa minha viagem cheia de desafios e aprendizados. 
 
-- 🚀 Quero me tornar uma desenvolvedora front-end
+- 🚀 Sou estudante de UX/UI Designer e, nas horas vagas, gosto de desenvolver projetos em front-end
 - 🎓 Estou estudando HTML, CSS e JavaScript
 - 👋🏻 Quero conhecer pessoas para trocar experiências e, quem sabe, desenvolver projetos colaborativos
 
