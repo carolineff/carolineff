@@ -2,8 +2,7 @@
 
 Uma jornalista que decidiu aprender a escrever em uma nova linguagem. Pois é!
 
-Estou amando desbravar, mesmo que aos pouquinhos, o universo dos códigos e dar um novo sentido a cada ponto e vírgula, às aspas, aos colchetes e por aí vai.<br>
-E, aqui, você pode acompanhar o que tenho feito durante essa minha viagem cheia de desafios e aprendizados. 
+Estou amando desbravar, mesmo que aos pouquinhos, o universo dos códigos e dar um novo sentido a cada ponto e vírgula, às aspas, aos colchetes e por aí vai. E, aqui, você pode acompanhar o que tenho feito durante essa minha viagem cheia de desafios e aprendizados. 
 
 - 🚀 Sou estudante de UX/UI Designer e, nas horas vagas, gosto de desenvolver projetos em front-end
 - 🎓 Estou estudando HTML, CSS e JavaScript
